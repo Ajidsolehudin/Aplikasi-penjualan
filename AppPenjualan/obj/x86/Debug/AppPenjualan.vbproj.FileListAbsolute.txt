@@ -1,0 +1,77 @@
+E:\PROJECT\Project Tch\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+E:\PROJECT\Project Tch\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+E:\PROJECT\Project Tch\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+E:\PROJECT\Project Tch\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+E:\PROJECT\Project Tch\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+E:\PROJECT\Project Tch\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+E:\PROJECT\Project Tch\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+E:\PROJECT\Project Tch\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+E:\PROJECT\Project Tch\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+E:\PROJECT\Project Tch\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+E:\PROJECT\Project Tch\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+E:\PROJECT\Project Tch\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+E:\PROJECT\Project Tch\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormKeluar.resources
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbprojAssemblyReference.cache
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.CoreCompileInputs.cache
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\AJID SOLEHUDIN\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+C:\Users\ajidsolehudin\Documents\Project VB\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+C:\Users\ajidsolehudin\Documents\Project VB\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+C:\Users\ajidsolehudin\Documents\Project VB\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+C:\Users\ajidsolehudin\Documents\Project VB\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+C:\Users\ajidsolehudin\Documents\Project VB\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormKeluar.resources
+C:\Users\ajidsolehudin\Documents\Project VB\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+C:\Users\ajidsolehudin\Documents\Project VB\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+C:\Users\ajidsolehudin\Documents\Project VB\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+C:\Users\ajidsolehudin\Documents\Project VB\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+C:\Users\ajidsolehudin\Documents\Project VB\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+C:\Users\ajidsolehudin\Documents\Project VB\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+C:\Users\ajidsolehudin\Documents\Project VB\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+C:\Users\ajidsolehudin\Documents\Project VB\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+C:\Users\ajidsolehudin\Documents\Project VB\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormKeluar.resources
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+E:\PROJECT WEB - APP\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+E:\PROJECT WEB - APP\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+E:\PROJECT WEB - APP\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+E:\PROJECT WEB - APP\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+E:\PROJECT WEB - APP\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+E:\PROJECT WEB - APP\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
